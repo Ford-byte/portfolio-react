@@ -1,0 +1,26 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "MCMC CHURCH WEBSITE WITH INTEGRATED CASH FLOW TRACKER",
+    "url": "/images/project1.png",
+    "type": "Ecommerce",
+    "description": "I created a TCP server using on datagram sockets, implementing my own flow and error control."
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "/images/project1.png",
+    "type": "Gaming",
+    "description": "I combined my love for video games with the amazing platform that is unity to create my first 3d survival game, written in C#."
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "/images/project1.png",
+    "type": "Chruch Website",
+    "description": "Using Nodejs and Mongodb I worked with 3 team members to create a web based application of the ancient chinese game GO."
+  }
+]
